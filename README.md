@@ -45,7 +45,3 @@ Vulnerability #2: Insecure Direct Object Reference
 
 ![](https://github.com/hareshseepersad/Week-8/blob/master/Week8%20CyberSec/Insecure%20Direct%20Obj.%20Refer(Red).gif)
 
-
-## Notes
-
-Describe any challenges encountered while doing the work
