@@ -29,14 +29,21 @@ Vulnerability #2: SQL Injection
 
 Vulnerability #1: Cross Site Scripting
 
+![](https://github.com/hareshseepersad/Week-8/blob/master/Week8%20CyberSec/Cross-Site%20Scripting(Green).gif)
+
 Vulnerability #2: Username Enumeration
 
+![](https://github.com/hareshseepersad/Week-8/blob/master/Week8%20CyberSec/Username%20Enumeration(Green).gif)
 
 ## Red
 
 Vulnerability #1: Cross-Site Request Forgery
 
+![](https://github.com/hareshseepersad/Week-8/blob/master/Week8%20CyberSec/Cross-Site%20Request%20Forgery(Red).gif)
+
 Vulnerability #2: Insecure Direct Object Reference
+
+![](https://github.com/hareshseepersad/Week-8/blob/master/Week8%20CyberSec/Insecure%20Direct%20Obj.%20Refer(Red).gif)
 
 
 ## Notes
