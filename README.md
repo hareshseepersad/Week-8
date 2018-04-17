@@ -18,9 +18,13 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: Session Hijacking
 
+![](https://github.com/hareshseepersad/Week-8/blob/master/Week8%20CyberSec/Session%20Hijacking(Blue).gif)
+  
+
 Vulnerability #2: SQL Injection
 
-
+![](https://github.com/hareshseepersad/Week-8/blob/master/Week8%20CyberSec/SQL%20Injection(Blue).gif)
+  
 ## Green
 
 Vulnerability #1: Cross Site Scripting
